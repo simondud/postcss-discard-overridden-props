@@ -1,4 +1,4 @@
-# postcss-discard-overridden-rules
+# postcss-discard-overridden-props
 PostCSS plugin, which discards overridden properties in every CSS rule.
 
 ## Example
